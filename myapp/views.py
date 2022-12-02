@@ -3,19 +3,19 @@ from .forms import Form
 
 articles = [
     {
-        'title': 'rgdgrd',
-        'content': 'wdaf',
-        'img': 'https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80'
+        'title': 'title',
+        'content': 'content',
+        'img': 'https://s1.1zoom.ru/big3/984/Canada_Parks_Lake_Mountains_Forests_Scenery_Rocky_567540_3840x2400.jpg'
     },
     {
-        'title': 'wad',
-        'content': 'sefesfes',
-        'img': 'https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80'
+        'title': 'title',
+        'content': 'content',
+        'img': 'https://s1.1zoom.ru/big3/984/Canada_Parks_Lake_Mountains_Forests_Scenery_Rocky_567540_3840x2400.jpg'
     },
     {
-        'title': 'hdrhrd',
-        'content': 'rdgdrg',
-        'img': 'https://images.unsplash.com/photo-1566275529824-cca6d008f3da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cGhvdG98ZW58MHx8MHx8&w=1000&q=80'
+        'title': 'title',
+        'content': 'content',
+        'img': 'https://s1.1zoom.ru/big3/984/Canada_Parks_Lake_Mountains_Forests_Scenery_Rocky_567540_3840x2400.jpg'
     },
 ]
 
